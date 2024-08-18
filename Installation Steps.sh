@@ -12,6 +12,7 @@ make
 make install
 cd
 
+
 echo "**cloning OpenSTA and will start installation of OpenSTA**"
 git clone https://github.com/The-OpenROAD-Project/OpenSTA.git
 cd OpenSTA
