@@ -74,5 +74,5 @@ echo "**cloning Openlane and will start installation of openlane**"
 echo
 echo
 git clone https://github.com/The-OpenROAD-Project/OpenLane.git
-cd Openlane
+cd OpenLane
 sudo make
