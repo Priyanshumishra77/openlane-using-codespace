@@ -17,7 +17,7 @@ echo "**cloning OpenSTA and will start installation of OpenSTA**"
 git clone https://github.com/The-OpenROAD-Project/OpenSTA.git
 cd OpenSTA
 cd build
-apt install cmake --assune-yes
+apt install cmake --assume-yes
 apt update -y --assume-yes
 apt install -y swig --assume-yes
 cmake ..
